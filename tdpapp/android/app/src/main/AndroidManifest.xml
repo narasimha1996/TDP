@@ -26,5 +26,8 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+         <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channed_id"
+            android:value="farmsoul"/>
     </application>
 </manifest>
